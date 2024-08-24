@@ -1,0 +1,26 @@
+nav {
+    background-color: rgb(24, 26, 29);
+    color: rgb(249, 250, 251);
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 32px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.nav-logo {
+    /* padding-left: 2rem; */
+}
+
+.nav-list ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+
+.nav-cart-box {
+    /* padding-right: 2rem; */
+    display: flex;
+    gap: 2rem;
+}
