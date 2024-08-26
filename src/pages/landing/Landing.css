@@ -1,0 +1,63 @@
+.landing-section {
+    display: flex;
+    font-family: 'Inter', sans-serif;
+    background-color: #F2F0F1;
+    background-image: url("/src/assets/modelPortrait.svg");
+    /* right on large screen, change for mobile */
+    background-position: right;
+    background-repeat: no-repeat;
+    /* background-size: auto; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    padding: 32px;
+    font-size: 1.2rem;
+}
+
+.landing-left-area {
+    width: 50%;
+}
+
+.landing-right-area {
+    width: 50%;
+    /* border: 1px solid black; */
+}
+
+/* text style  */
+.left-div p{
+    padding: 1rem;
+}
+
+.bold-text {
+    font-size: 4rem;
+    font-weight: 800;
+}
+
+.landing-p {
+    letter-spacing: 2px;
+    font-size: 1.5rem;
+}
+
+.landing-btn {
+    border-radius: 62px;
+    background-color: #000000;
+    height: 52px;
+    width: 210px;
+    font-size: 1.2rem;
+    color: #FFFFFF;
+}
+
+.landing-btn:hover {
+    cursor: pointer;
+}
+
+/* btm-landing */
+.landing-btm-section {
+    display: flex;
+    padding: 36px 0;
+    justify-content: space-around;
+}
+
+.span-p {
+    font-weight: 600;
+    font-size: 2rem;
+}
