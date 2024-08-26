@@ -1,9 +1,10 @@
 footer {
     font-family: 'Inter', sans-serif;
-    padding: 16px 32px 0 32px;
-    position: fixed;
+    padding: 22px 32px;
+    /* position: fixed; */
+    /* position: relative; */
     bottom: 0;
-    width: 100%;
+    /* width: 100%; */
     /* border: 1px solid red; */
 }
 
@@ -50,7 +51,7 @@ footer {
 
 .foot-btm {
     border-top: 1px solid black;
-    width: 97%;
+    width: 99%;
     display: flex;
     justify-content: center;
     align-items: center;
