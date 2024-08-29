@@ -1,10 +1,10 @@
 footer {
     font-family: 'Inter', sans-serif;
     padding: 22px 32px;
-    /* position: fixed; */
+    position: fixed;
     /* position: relative; */
     bottom: 0;
-    /* width: 100%; */
+    width: 100%;
     /* border: 1px solid red; */
 }
 
